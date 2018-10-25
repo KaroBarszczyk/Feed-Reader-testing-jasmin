@@ -1,6 +1,6 @@
 # Feed Reader Testing
 #
-#### This is project is a part of Front-End Web Developer Nanodegree Program by [Udacity](udacity.com) & [Google](google.com).
+#### This project is a part of Front-End Web Developer Nanodegree Program by [Udacity](udacity.com) & [Google](google.com).
 ---
 #
 ### How to run the application
